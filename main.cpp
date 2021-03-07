@@ -1,4 +1,5 @@
-/*
+/* Written by Jason Ching
+ * Exercise taken from Deitel, P., & Deitel, H. (2016). C++ How to Program (10th ed.). Pearson.
  * ****************************************************************
  * 2.17 (Printing) Write a program that prints the numbers 1 to 4 *
  * on the same line with each pair of adjacent numbers separated  *
